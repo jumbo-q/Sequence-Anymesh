@@ -2,7 +2,7 @@
 
 obj/fbx/glb/gltf/etc. mesh sequence to animation 
 
-using example : in the project (UNIC)[https://github.com/IGL-HKUST/UNIC]
+using example : in the project [UNIC](https://github.com/IGL-HKUST/UNIC)
 
 ## how to use 
 
